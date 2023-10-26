@@ -1,3 +1,4 @@
+# Simple comment for Workshop 7 commit
 # -*- coding: utf-8 -*-
 """
 Created on Thu Oct  8 23:29:10 2020
